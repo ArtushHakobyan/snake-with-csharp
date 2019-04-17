@@ -20,3 +20,7 @@ Snake game made with C# on Console window
 ## Authors
 
 * **Artush Hakobyan** - *Initial work* - [ArtushHakobyan](https://github.com/ArtushHakobyan)
+
+## Licesnse
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ArtushHakobyan/snake-with-csharp/blob/master/LICENSE) file for details
