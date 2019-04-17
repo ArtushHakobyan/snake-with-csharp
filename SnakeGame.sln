@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "Snake\SnakeGame.csproj", "{A8C93DA0-207E-4B9F-879D-55D432E13AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGameUsingConsoleGameEngine", "SnakeGameUsingConsoleGameEngine\SnakeGameUsingConsoleGameEngine.csproj", "{149CEF69-A639-43B6-81C0-73E2507ADEF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8C93DA0-207E-4B9F-879D-55D432E13AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C93DA0-207E-4B9F-879D-55D432E13AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C93DA0-207E-4B9F-879D-55D432E13AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149CEF69-A639-43B6-81C0-73E2507ADEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149CEF69-A639-43B6-81C0-73E2507ADEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149CEF69-A639-43B6-81C0-73E2507ADEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149CEF69-A639-43B6-81C0-73E2507ADEF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
