@@ -1,7 +1,6 @@
 <h1 align="center">Snake With CSharp</h1>
 
-
-<img src="http://slavagames.net/i/a6/a65def59a7a5ba1dba0ddc389b5a7fa2/zmeyka-klassicheskaya-97-retro-c.jpg" align="center">
+<img src="https://thecustomizewindows.com/wp-content/uploads/2012/02/xBest-Snake-Games-for-Android.jpg.pagespeed.ic.kc-yeFmiui.jpg">
 
 ## Description
 
