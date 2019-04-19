@@ -7,7 +7,7 @@ namespace SnakeGameUsingConsoleGameEngine
 {
     public class Snake : GameObject
     {
-        public Position Direction = new Position(1, 0);
+        public Vector2D Direction = new Vector2D(1, 0);
 
         public Snake()
         {
@@ -19,7 +19,7 @@ namespace SnakeGameUsingConsoleGameEngine
             Name = name;
         }
 
-        public Snake(Position pos, char icon, ConsoleColor color, string name):base(icon, color, pos)
+        public Snake(Vector2D pos, char icon, ConsoleColor color, string name):base(icon, color, pos)
         {
             Name = name;
         }
